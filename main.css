@@ -137,6 +137,8 @@ li {
   border-radius: 5px;
   font-family: "Product Sans";
   cursor: pointer;
+  text-decoration: none;
+  color: #333;
 }
 .action-button:hover {
   box-shadow: #818181 0 2px 3px;

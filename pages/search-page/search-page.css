@@ -59,6 +59,15 @@ body {
   border: 0.2px #3333334a solid;
   border-radius: 30px;
   text-transform: uppercase;
+  box-shadow: 2px 5px 10px #33333332;
+}
+
+.input-field:hover {
+  padding: 15px 250px;
+  border: 0.2px #3333334a solid;
+  border-radius: 30px;
+  text-transform: uppercase;
+  box-shadow: 2px 5px 10px #3333338d;
 }
 
 .search-icon-container {
